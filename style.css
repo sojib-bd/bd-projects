@@ -1,0 +1,89 @@
+*{margin:0; padding: 0; outline: 0;}
+body{font-family: arial; font-size: 14px; line-height:18px; color: #333;background: #E0D48A; }
+.template{width: 950px; margin: 0 auto; height: 600px;}
+.clear{overflow: hidden;}
+.headersection{background: #BAD82B; height: 150px;}
+.header-left{float: right; padding-right: 100px;}
+.header-left h1{padding-top:40px;}
+.header-left h3{padding-top:20px; font-size: 14px;font-family: arial;}
+.navigation-section{background: #EAE6CB;height: 40px; border:1px solid white;}
+.nav-title{padding-top: 10px; padding-left: 30px;}
+.nav-title a{padding: 25px; color:green; text-decoration: none;}
+.main-content{background:hsla(58, 91%, 87%, 1);}
+.main-left{
+	background: #F0E8C3;
+	 width: 200px;
+	 position: absolute;
+	 z-index: 1;
+	 height: 500px;
+	 
+	}
+.main-manu{ }
+.main-manu h1{
+	background: #D2D35E;
+	width: 150px;
+	height: 30px;
+	padding-top:15px;
+	padding-left: 20px;
+	margin-left: 10px;
+	margin-top: 10px;
+	}
+.main-manu li{padding: 5px; margin-left: 10px;}
+.main-manu a{text-decoration: none;color:green;}
+.block{}
+.block h1{background: #D2D35E;width: 150px; height: 30px;padding-top:15px; padding-left: 20px;margin-left: 10px; margin-top: 10px;}
+.description{margin-left: 15px;}
+.block h5{}
+.block p{width:150px; height:100%;}
+.main-right{margin-left: 220px; padding-top:25px;background: #EFE6C5; }
+.gallary{padding-top: 10px; }
+.gallary h1{}
+.gallary p{}
+.subscription{
+	width: 350px;
+	height: 250px;
+	position: absolute;
+	z-index: 1;
+}
+.subscription h1{padding-top: 10px;}
+.subscription p{
+	font-family: arial;
+	font-size: 15px;
+}
+.subscription a{
+	text-decoration: none;
+	background: #BCDB27;
+	padding:10px 10px 10px 10px;
+	color:black;
+}
+.other-servics{
+	margin-left: 400px;
+	height: 250px;
+}
+.other-servics h1{
+	padding-top: 10px;
+
+}
+.other-servics p{}
+.other-servics a{
+	text-decoration: none;
+	background: #BCDB27;
+	padding:10px 10px 10px 10px;
+	color:black;
+}
+.footer-section{ 
+	height: 20px;
+	background: #CBDE50;
+	width: 100%;
+	padding-top: 50px;
+	text-align: center;
+	
+
+ }
+
+#copy{
+	
+	font-size: 18px;
+	float-bottom:20px;
+	
+}
